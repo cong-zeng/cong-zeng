@@ -82,4 +82,11 @@ Welcome to my GitHub profile! I'm a **Machine Learning Master's student** at Moh
 ## 🌟 Projects  
 
 - **Quantitative Analysis of Chinese Poverty Alleviation Policy Text**  
-  *
+  *Mar 2021 - Jun 2021*  
+  - Implemented LDA for topic extraction and visualized analysis using ECharts.  
+
+- **Design of College Study Guide Application**  
+  *Jan 2020 - May 2020*  
+  - Designed and developed a platform connecting university tour guides with students.  
+
+---
