@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm a **Machine Learning Master's student** at Mohamed bin Zayed University of Artificial Intelligence with a passion for **Large Language Models (LLMs)** and their intersection with cognitive science, safety, and real-world applications. I love exploring the potential of AI to solve complex problems and push the boundaries of innovation. 🚀  
 
-📫 Email: [congzeng66@gmail.com](mailto:congzeng66@gmail.com)  
+📫 Email: [congzeng66@gmail.com](mailto:congzeng66@gmail.com)  [cong.zeng@mbzuai.ac.ae](mailto:cong.zeng@mbzuai.ac.ae)  
 🔗 [GitHub](https://github.com/cong-zeng) | [LinkedIn](https://www.linkedin.com/in/cong-zeng-179597278/)  
 
 ---
